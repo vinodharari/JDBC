@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+D:\Java\J2EE\JDBC\set01\.metadata\.plugins\org.eclipse.jdt.core
